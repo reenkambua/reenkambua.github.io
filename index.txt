@@ -4,7 +4,7 @@ Ethan Ward - Web Developer from New York
 
 #---------- HEADER ----------#
 
-Ethan Ward
+Maureen Kambua
 
 aria-label = Toggle Menu
 
@@ -38,12 +38,11 @@ alt = I'm developer from New York
 
 Hello I'm
 
-Ethan Ward
+Maureen Kambua
 
-Web Developer from New York
+Software Engineer from Nairobi,Kenya
 
-Adipisicing elit. Neque nulla voluptatum eos repellat deserunt nesciunt tempore porro totam.
-
+I'm a passionate Software Developer with a love for creating clean, efficient, and scalable applications.
 Get a Quote
 
 About Me
@@ -52,21 +51,24 @@ About Me
 
 #---------- ABOUT ----------#
 
-alt = Ethan's Photo
+alt = Maureen's Photo
 
-alt = Ethan's Photo
+alt = Maureen's Photo
 
 <ion-icon name="logo-css3"></ion-icon>
-<ion-icon name="logo-javascript"></ion-icon>
-<ion-icon name="logo-angular"></ion-icon>
+<ion-icon name="logo-react"></ion-icon>
+<ion-icon name="logo-python"></ion-icon>
 
 I'm a Developer
 
 I Develop Application that Help People
 
-Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatu epteur sint occaecat cupidatat
+ I am a dedicated and curious technology enthusiast with a strong foundation in computer science.
+ I have a passion for solving complex problems and continuously learning new skills. With experience in software development.
+ I enjoy working on projects that involve creating efficient and user-friendly solutions.
 
-Krnon proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis
+My interests span across web development, mobile applications, cybersecurity, and intelligent systems.
+I thrive in collaborative environments and am always eager to take on new challenges that push the boundaries of innovation
 
 View Portfolio
 
@@ -78,20 +80,15 @@ Portfolio
 
 My Amazing Works
 
-Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
+Each piece of work reflects my passion for technology and my commitment to excellence.
 
-Youtube
+My World
 
-Web Application for Desiverse
+Software Applications in real world scenarios
 
-View Project 
+View More
 <ion-icon name="arrow-forward"></ion-icon>
 
-Vimeo
-
-Soundcloud
-
-Details
 
 
 
@@ -101,7 +98,10 @@ My Skills
 
 I Develop Skills Regularly
 
-Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
+I have developed a diverse set of technical skills through both academic study and hands-on experience.
+My expertise spans across front-end and back-end development, mobile applications, and cybersecurity.
+I am proficient in multiple programming languages and frameworks,
+and I’m always eager to adopt new tools and technologies to improve my workflow.
 
 CSS
 95%
@@ -109,13 +109,16 @@ CSS
 React
 75%
 
-MongoDB
+HTML
+95%
+
+MYSQL
 90%
 
 Python
 70%
 
-PHP
+Django
 80%
 
 JavaScript
@@ -139,15 +142,15 @@ Submit Message
 
 <ion-icon name="location"></ion-icon>
 Address
-20, London, United Kingdom
+Nairobi, Kenya
 
 <ion-icon name="mail"></ion-icon>
 Email
-hello@ethan.com
+maureenkambua75@gmail.com
 
 <ion-icon name="call"></ion-icon>
 Phone
-+123 456 7890
++254706488066
 
 
 
@@ -157,19 +160,21 @@ Latest News
 
 Checkout My Recent Blogs
 
-Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
+Welcome to my blog section! Here, I share insights, tutorials, and experiences from my journey in tech.
+Whether it's software development, cybersecurity, or emerging technologies,
+I aim to provide useful and engaging content that inspires and informs.
 
-alt = Jim Morisson Says when the musics over turn off the light
+alt = Join me as I dive into the fascinating world of software development
 
-Web Development
+Software Development
 
-Jim Morisson Says when the musics over turn off the light
+Join me as I dive into the fascinating world of software development
 
 
 
 #---------- FOOTER ----------#
 
-&copy; 2022 codewithsadee. All Rights Reseverd
+&copy; 2024 reenkambua. All Rights Reseverd
 
 Terms & Condition 
 Privacy Policy
