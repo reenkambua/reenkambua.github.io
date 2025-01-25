@@ -994,11 +994,7 @@ textarea.contact-input {
     gap: 25px;
   }
 
-<<<<<<< HEAD
-  
-=======
 
->>>>>>> bcefa2eeb45b76f322e2536bf7da2f6cce4b2dff
 
   /**
    * FOOTER
@@ -1010,8 +1006,17 @@ textarea.contact-input {
     align-items: center;
 
   }
-
-  .copyright,
-  .footer-list { margin-inline: 0; }
-
+  .footer-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex; /* Displays list items in a row */
 }
+
+.footer-list li {
+  margin-left: 20px; /* Space between the list items */
+}
+.copyright {
+  margin-right: auto; /* Pushes the copyright section to the left */
+}
+
