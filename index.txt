@@ -24,13 +24,8 @@ Download CV
 
 #---------- HERO ----------#
 
-alt = Ethan's Photo
+alt = Maureen's Photo
 
-12
-Years of Success
-
-800+
-Projects Completed
 
 <ion-icon name="trophy"></ion-icon>
 
@@ -116,7 +111,7 @@ MYSQL
 90%
 
 Python
-70%
+85%
 
 Django
 80%
